@@ -1,0 +1,5 @@
+import(stats, splines, numDeriv)
+importFrom(utils, tail)
+importFrom(Matrix, bdiag)
+importFrom(MASS, ginv)
+exportPattern("^[[:alpha:]]+")
